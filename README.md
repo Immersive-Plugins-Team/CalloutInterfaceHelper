@@ -39,7 +39,7 @@ While your callout is active, you can send messages to the MDT.  You cannot use 
 
 ### Example
 ```cs
-CalloutInterfaceAPI.Functions.SendMessage(this, "This is an example of a multi-line message.\nThis is the second line.\nPlease note, that extremely long lines will be split up into chunks of no more than 60 characters.  The rest of this is just gibberish to demonstrate what it looks like.");
+CalloutInterfaceAPI.Functions.SendMessage(this, "This is an example of a multi-line message.\nThis is the second line.\nPlease note, extremely long lines will be split up into chunks of no more than 60 characters.  The rest of this is just gibberish to demonstrate what it looks like.");
 ```
 ![Message Example](https://i.imgur.com/gYnx9KZ.png)
 
