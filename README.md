@@ -47,9 +47,9 @@ CalloutInterfaceAPI.Functions.SendMessage(this, "This is an example of a multi-l
 
 ## Support
 
-Please join my [discord server](https://discord.gg/AuJCUag) and open a ticket for CalloutInterface and mention that you are a callout pack developer.  I will add you to the CalloutInterfaceAPI channel.
+Please join my [discord server](https://discord.gg/AuJCUag), open a ticket for CalloutInterface, and mention that you are a callout pack developer.  I will add you to the CalloutInterfaceAPI channel.
 
 
 ## Special Thanks
 
-Thanks to [Dylann24](https://github.com/Dylann24) and [Charlie686](https://github.com/Charlie-686) for being an early adopters and helping me test!
+Thanks to [Dylann24](https://github.com/Dylann24) and [Charlie686](https://github.com/Charlie-686) for being early adopters and helping me test!
